@@ -1,0 +1,11 @@
+D:\TASKS\insertion sort\insertion sort\obj\Debug\insertion sort.csproj.AssemblyReference.cache
+D:\TASKS\insertion sort\insertion sort\obj\Debug\insertion sort.csproj.SuggestedBindingRedirects.cache
+D:\TASKS\insertion sort\insertion sort\obj\Debug\insertion_sort.Form1.resources
+D:\TASKS\insertion sort\insertion sort\obj\Debug\insertion_sort.Properties.Resources.resources
+D:\TASKS\insertion sort\insertion sort\obj\Debug\insertion sort.csproj.GenerateResource.cache
+D:\TASKS\insertion sort\insertion sort\obj\Debug\insertion sort.csproj.CoreCompileInputs.cache
+D:\TASKS\insertion sort\insertion sort\bin\Debug\insertion sort.exe.config
+D:\TASKS\insertion sort\insertion sort\bin\Debug\insertion sort.exe
+D:\TASKS\insertion sort\insertion sort\bin\Debug\insertion sort.pdb
+D:\TASKS\insertion sort\insertion sort\obj\Debug\insertion sort.exe
+D:\TASKS\insertion sort\insertion sort\obj\Debug\insertion sort.pdb
